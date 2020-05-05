@@ -1,0 +1,16 @@
+
+body {
+    height: 100vh;
+}
+
+.airplane, .worm {
+    position: relative;
+}
+
+.airplane img {
+    width: 200px;
+}
+
+.worm img {
+    width: 150px;
+}
